@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_60]"/>
+	<classpathentry kind="src" path="com"/>
+	<classpathentry kind="lib" path="/Users/mohammadhosseinasghari/Documents/workspace/rotatingLED/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/Users/mohammadhosseinasghari/Documents/workspace/rotatingLED/bridj-0.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
